@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hana`s%20Space&fontAlign=70&fontAlignY=30&color=8ba6ff&fontColor=ffffff)
 
-<h3 align="center">:ghost: Tech Stack :ghost:</h3>
+<h3 align="center">:ghost: Hello World :ghost:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-3c6ee6?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
