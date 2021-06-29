@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-3c6ee6?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white")</a>&nbsp  
   <img src="https://img.shields.io/badge/Mysql-1572B6?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Postgresql-ffffff?style=flat-square&logo=Postgresql&logoColor=blue")</a>&nbsp
   <img src="https://img.shields.io/badge/Java-5783a2?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -21,8 +22,7 @@
 
 <h3 align="center">A little experience of Techs </h3>
 <p align="center">
- <img src="https://img.shields.io/badge/Android-9bcb0d?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white")</a>&nbsp 
+ <img src="https://img.shields.io/badge/Android-9bcb0d?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/InfluxDB-3fadf6?style=flat-square&logo=InfluxDB&logoColor=white"/></a>&nbsp
 </p>
 
