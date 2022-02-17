@@ -6,12 +6,13 @@
   <img src="https://img.shields.io/badge/Kubernetes-3c6ee6?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white")</a>&nbsp  
   <img src="https://img.shields.io/badge/Mysql-1572B6?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Postgresql-ffffff?style=flat-square&logo=Postgresql&logoColor=blue")</a>&nbsp
+  <img src="https://img.shields.io/badge/Postgresql-ffffff?style=flat-square&logo=Postgresql&logoColor=blue")</a>&nbsp  
+  <img src="https://img.shields.io/badge/Go-77d7e5?style=flat-square&logo=Go&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Java-5783a2?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Grafana-e35b2b?style=flat-square&logo=grafana&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/prometheus-e05024?style=flat-square&logo=prometheus&logoColor=white"/></a>  
-  <img src="https://img.shields.io/badge/Go-77d7e5?style=flat-square&logo=Go&logoColor=white"/></a>  
+  
 </p>
 
 <h3 align="center"> Techs that I`ve been learning about </h3>
