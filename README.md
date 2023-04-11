@@ -12,14 +12,9 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Grafana-e35b2b?style=flat-square&logo=grafana&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/prometheus-e05024?style=flat-square&logo=prometheus&logoColor=white"/></a>  
-  
+  <img src="https://img.shields.io/badge/Node.js-85bd0c?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </p>
 
-<h3 align="center"> Techs that I`ve been learning about </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-85bd0c?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
-</p>
 
 <h3 align="center">A little experience of Techs </h3>
 <p align="center">
